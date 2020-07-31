@@ -1,4 +1,4 @@
-# amp
+# APM
 
 ## Configuring Prometheus
 
