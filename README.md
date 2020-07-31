@@ -1,10 +1,15 @@
 # APM
 
-## Configuring Prometheus
+## Configuration 
 
+### Prometheus
 - go to [prometheus.yml](https://github.com/reisneto/amp/blob/master/prometheus/config/prometheus.yml#L14)
 - change this application name 
-- change *targerts* to your application ip
+- change *targets* to your application ip
+- `mkdir prometheus/data`
+
+### Grafana
+- `mkdir grafana/data`
 
 ## Starting containers
 
