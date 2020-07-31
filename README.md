@@ -1,10 +1,10 @@
 # amp
 
-## Configure Prometheus
+## Configuring Prometheus
 
 - go to [prometheus.yml](https://github.com/reisneto/amp/blob/master/prometheus/config/prometheus.yml#L14)
-- alter this application name 
-- alter *targerts* to your application ip
+- change this application name 
+- change *targerts* to your application ip
 
 ## Starting containers
 
