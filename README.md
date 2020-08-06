@@ -1,4 +1,4 @@
-# Prometheus-Grana
+# Prometheus-Grafana
 Put both services online locally to connect an application to it.
 
 ## Configuration 
