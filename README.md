@@ -1,4 +1,5 @@
-# APM
+# Prometheus-Grana
+Put both services online locally to connect an application to it.
 
 ## Configuration 
 
